@@ -1,5 +1,8 @@
 <h1 align="center">👋 Olá, eu sou o André Luis!</h1>
 
+
+![robot](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTh1c2ZnbGY2NGJ3Zmt5ZXFlNmVqNmZ6cTNmbm14aTBsdmwzN3E1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hrdX1BsUBq7DkGJCCd/giphy.gif)
+
 <p align="center">
   💻 Estudante apaixonado por tecnologia, aprendendo <b>C#</b> e <b>React</b>.<br>
   🚀 Buscando evoluir como desenvolvedor full stack e criar projetos reais.<br>
