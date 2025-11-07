@@ -66,5 +66,5 @@
 ---
 
 <p align="center">
-  Feito com 💙 por <b>André Luis</b> • “Aprender, praticar e evoluir todos os dias.”
+  Feito com 💙 por <b>André Luis</b> • “Aprender, praticar e evoluir.”
 </p>
