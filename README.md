@@ -1,7 +1,12 @@
 <h1 align="center">👋 Olá, eu sou o André Luis!</h1>
 
-
-![robot](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTh1c2ZnbGY2NGJ3Zmt5ZXFlNmVqNmZ6cTNmbm14aTBsdmwzN3E1aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hrdX1BsUBq7DkGJCCd/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVzN3ZxNjBlZTNmYXZxczY4OXI1eXl1MjF2dnRkdmRna2JtY2l1YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/giphy.gif" 
+       alt="anime-gif" 
+       width="200" 
+       height="200" 
+       style="border-radius: 50%; box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);" />
+</p>
 
 <p align="center">
   💻 Estudante apaixonado por tecnologia, aprendendo <b>C#</b> e <b>React</b>.<br>
