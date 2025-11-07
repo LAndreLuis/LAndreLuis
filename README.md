@@ -23,6 +23,7 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -33,9 +34,9 @@
 ### 📈 Estatísticas do GitHub
 <div align="center">
 
-![André Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreluis&show_icons=true&theme=blueberry&hide_border=true)
+![André Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=LAndreLuis&show_icons=true&theme=blueberry&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreluis&layout=compact&theme=blueberry&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LAndreLuis&layout=compact&theme=blueberry&hide_border=true)
 
 </div>
 
