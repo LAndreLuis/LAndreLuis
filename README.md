@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**LAndreLuis/LAndreLuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**André Luis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
