@@ -46,7 +46,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LAndreLuis&layout=compact&theme=blueberry&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=LAndreLuis&theme=blueberry&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=LAndreLuis&theme=tokyonight&hide_border=true)
+
 
 
 </div>
