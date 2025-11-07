@@ -17,7 +17,7 @@
 ---
 
 ### 🧠 Atualmente estudando:
-- ⚙️ **C# / .NET**
+- ⚙️ **C# / .NET9**
 - ⚛️ **React.js**
 - 🗄️ **Banco de dados (MySQL e SQL SERVER)**
 - 🎨 **UI/UX com foco em experiência e design limpo**
@@ -46,16 +46,19 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LAndreLuis&layout=compact&theme=blueberry&hide_border=true)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=LAndreLuis&theme=blueberry&hide_border=true)
+
+
 </div>
 
 ---
 
 ### 📫 Onde me encontrar
-<div align="center">
+<p align="center">
+  🌐 <a href="https://github.com/LAndreLuis"><b>GitHub</b></a> • 
+  ✉️ <a href="mailto:opapro@hotmail.com"><b>E-mail</b></a>
+</p>
 
-🌐 [**Meu GitHub**](https://github.com/LAndreLuis) 
-💼 (Adicione aqui seu LinkedIn se tiver)  
-📘 (Você também pode adicionar um e-mail profissional ou portfolio futuramente)
 
 </div>
 
