@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o André Luis!</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVzN3ZxNjBlZTNmYXZxczY4OXI1eXl1MjF2dnRkdmRna2JtY2l1YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/giphy.gif" 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhldmJuczBlZWN5dGJlNDF4azNxOHY3aGdqYXlqcXBwbGFmNXNiMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/83NloCyRg8xpuIAhRL/giphy.gif" 
        alt="anime-gif" 
        width="200" 
        height="200" 
