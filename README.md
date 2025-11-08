@@ -17,10 +17,9 @@
 ---
 
 ### 🧠 Atualmente estudando:
-- ⚙️ **C# / .NET9**
+- 💻 C# / .NET
 - ⚛️ **React.js**
 - 🗄️ **Banco de dados (MySQL e SQL SERVER)**
-- 🎨 **UI/UX com foco em experiência e design limpo**
 
 ---
 
