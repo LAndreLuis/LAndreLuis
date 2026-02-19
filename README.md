@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  💻 Estudante apaixonado por tecnologia, aprendendo <b>C#</b> e <b>React</b>.<br>
+  💻 apaixonado por tecnologia, aprendendo <b>C#</b> e <b>React</b>.<br>
   🚀 Buscando evoluir como desenvolvedor full stack e criar projetos reais.<br>
   🎯 Foco em aprendizado constante e boas práticas de código.
 </p>
