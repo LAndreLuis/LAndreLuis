@@ -1,59 +1,92 @@
-<h1 align="center">👋 Olá, eu sou o André Luis!</h1> 
-<p align="center"> 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhldmJuczBlZWN5dGJlNDF4azNxOHY3aGdqYXlqcXBwbGFmNXNiMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/83NloCyRg8xpuIAhRL/giphy.gif" alt="anime-gif" width="200" height="200" style="border-radius: 50%; box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);" /> 
-</p> 
-<p align="center"> 
-  💻 Apaixonado por tecnologia, aprendendo <b>C#</b> e <b>React</b>.<br> 
-  🚀 Buscando evoluir como desenvolvedor full stack e criar projetos reais.<br> 
-  🎯 Foco em aprendizado constante e boas práticas de código. 
-</p> 
+<h1 align="center">👋 Olá, eu sou André Luis</h1>
 
---- 
+<p align="center">
+  💻 Desenvolvedor Full Stack focado em <strong>C# .NET</strong> e <strong>React</strong><br>
+  🚀 Criando aplicações escaláveis, APIs robustas e interfaces modernas<br>
+  🎯 Apaixonado por arquitetura limpa, performance e boas práticas
+</p>
 
-### 🧠 Atualmente estudando: 
-- 💻 C# / .NET 
-- ⚛️ **React.js** 
-- 🗄️ **Banco de dados (MySQL e SQL Server)** 
+---
 
---- 
+## 🚀 Sobre mim
 
-### 🛠️ Tecnologias & Ferramentas 
-<div align="center"> 
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://shields.io" alt="MySQL">
-  <img src="https://shields.io" alt="SQL Server">
-  <br><br>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"> 
-</div> 
+- 🔭 Atualmente estudando e desenvolvendo projetos com **C# .NET**
+- 🌱 Aprimorando conhecimentos em **ASP.NET Core, React e SQL**
+- 🖥️ Experiência com aplicações Desktop, APIs REST e sistemas web
+- ⚡ Foco em código limpo, organização e evolução contínua
 
---- 
+---
 
-### 🚀 Principais Projetos
-<!-- Substitua os links e nomes abaixo pelos seus projetos reais -->
-- 📂 **[Nome do Projeto 1](link-do-repositorio)**: Descrição breve do projeto feito com C# e React.
-- 📂 **[Nome do Projeto 2](link-do-repositorio)**: Descrição breve do sistema de banco de dados ou API.
+## 🛠️ Tecnologias & Ferramentas
 
---- 
+<div align="center">
 
-### 📈 Estatísticas do GitHub 
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=LAndreLuis&show_icons=true&theme=blueberry&hide_border=true" alt="André Luis GitHub stats"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAndreLuis&layout=compact&theme=blueberry&hide_border=true" alt="Top Langs"> 
-</div> 
+### Backend
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 
---- 
+### Frontend
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-### 📫 Onde me encontrar 
-<p align="center"> 
-  🌐 <a href="https://github.com/LAndreLuis"><b>GitHub</b></a> • 
-  💼 <a href="https://linkedin.com"><b>LinkedIn</b></a> • 
-  ✉️ <a href="mailto:opapro@hotmail.com"><b>E-mail</b></a> 
-</p> 
+### Banco de Dados
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebird-EE4000?style=for-the-badge" />
 
---- 
-<p align="center"> Feito com 💙 por <b>André Luis</b> • “Aprender, praticar e evoluir.” </p>
+### Ferramentas
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+</div>
+
+---
+
+## 📌 Projetos em Destaque
+
+### 💳 Sistema PDV WPF
+Sistema completo desenvolvido em **WPF .NET**, utilizando **Firebird** e **Dapper**.
+
+### 🌐 Plataforma SaaS para Provedores
+Sistema modular para gerenciamento de provedores de internet.
+
+### 🤖 Bot para MU Online
+Bot inteligente desenvolvido em **C#** utilizando captura de tela e automação.
+
+---
+
+## 📈 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://github.com/SEU-USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/SEU-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:opapro@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Desenvolvido por <strong>André Luis</strong>
+</p>
